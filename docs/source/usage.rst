@@ -10,8 +10,7 @@ Key Authentication
 
 >>>{
   "Authorization": "Bearer YOUR_API_KEY"
-}
-</variable>    
+}  
 
 Replace YOUR_API_KEY with the API key you obtained during registration or login.
 
