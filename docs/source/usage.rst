@@ -6,11 +6,11 @@ Usage
 Key Authentication
 ------------
 
- To access the protected routes, you need to include the API key in the request headers. The API key should be included in the "Authorization" header as follows:
+ To access the protected routes, you need to include the API key in the request headers. The API key should be included in the "Authorization" header as follows::
 
 { "Authorization": "Bearer YOUR_API_KEY" }
 
-.. code-block:: json
+.. code-block:: rst
 Replace **YOUR_API_KEY** with the API key you obtained during registration or login.
 
 Creating recipes
