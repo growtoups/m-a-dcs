@@ -12,7 +12,13 @@ Key Authentication
   "Authorization": "Bearer YOUR_API_KEY"
 }
 ``    
+A cool bit of code::
 
+   Some cool Code
+
+.. code-block:: rst
+
+   A bit of **rst** which should be *highlighted* properly.
 Replace **YOUR_API_KEY** with the API key you obtained during registration or login.
 
 Creating recipes
