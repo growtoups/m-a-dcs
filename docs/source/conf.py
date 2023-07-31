@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Mycelium-API'
+copyright = '2023, BrainBytes'
+author = 'BrainBytes'
 
 release = '0.1'
 version = '0.1.0'
