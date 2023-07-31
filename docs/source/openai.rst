@@ -9,6 +9,7 @@ GPT-3.5 Route
  To interact with OpenAI's GPT-3.5 model, send a POST request with your authorization header to the following endpoint:
 
 api.mycelium-ai.com/api/openai/gpt-3.5
+
 { "prompt": "Your conversation prompt or question here." }
     
 
@@ -21,6 +22,7 @@ DALL-E Route
 To interact with OpenAI's DALL-E model, send a POST request with your authorization header to the following endpoint:
 
 api.mycelium-ai.com/api/openai/dall-e
+
 { "prompt": "Your image generation prompt or description here." }
     
 
@@ -33,9 +35,8 @@ Moderation Route
 To check if a piece of text contains potentially inappropriate content, send a POST request with your authorization header to the following endpoint:
 
 api.mycelium-ai.com/api/openai/moderations
-{
-  "input": "I want to kill them."
-}
+
+{ "input": "I want to kill them." }
     
 
 The request body should contain the text you want to check for moderation. The response will indicate whether the content is flagged as potentially inappropriate and the reason if any of the categories are true.
