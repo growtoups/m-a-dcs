@@ -10,9 +10,7 @@ Key Authentication
  
 A cool bit of code::
 
-{
-  "Authorization": "Bearer YOUR_API_KEY"
-}
+{ "Authorization": "Bearer YOUR_API_KEY" }
 
 .. code-block:: rst
 
