@@ -16,3 +16,4 @@ Contents
 
    usage
    openai
+   image
