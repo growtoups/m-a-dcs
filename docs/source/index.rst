@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to Mycelium-API's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Mycelium-API** is a powerful and versatile API service that offers a wide range of functionalities designed to simplify and enhance various tasks. From AI-powered interactions to image processing capabilities, Mycelium-API empowers developers and users alike with its seamless integration and user-friendly routes.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`usage` section for further information.
 
 .. note::
 
