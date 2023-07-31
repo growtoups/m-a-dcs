@@ -19,6 +19,7 @@ Registration
 To register a new account, send a POST request to the following endpoint:
 
 api.mycelium-ai.com/api/me/register
+
 {
   "username": "your_username",
   "password": "your_password"
@@ -34,6 +35,7 @@ Login
 To login to your account and obtain the API key, send a POST request to the following endpoint:
 
 api.mycelium-ai.com/api/me/login
+
 {
   "username": "your_username",
   "password": "your_password"
