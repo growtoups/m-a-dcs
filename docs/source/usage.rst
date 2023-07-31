@@ -1,16 +1,19 @@
 Usage
 =====
 
-.. _installation:
+.. _keyauth:
 
-Installation
+Key Authentication
 ------------
 
-To use Lumache, first install it using pip:
+ To access the protected routes, you need to include the API key in the request headers. The API key should be included in the "Authorization" header as follows:
+<variable>
+{
+  "Authorization": "Bearer YOUR_API_KEY"
+}
+</variable>    
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+Replace YOUR_API_KEY with the API key you obtained during registration or login.
 
 Creating recipes
 ----------------
