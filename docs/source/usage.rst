@@ -10,7 +10,7 @@ Key Authentication
 
 { "Authorization": "Bearer YOUR_API_KEY" }
 
-.. code-block::
+.. code-block:: json
 Replace **YOUR_API_KEY** with the API key you obtained during registration or login.
 
 Creating recipes
