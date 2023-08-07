@@ -5,7 +5,7 @@ Random Pictures
 
 ------------
 
-Mycelium-API Documentation | Random Duck Picture Route
+Random Duck Picture Route
 =====================================================
 
 Overview
@@ -53,11 +53,3 @@ Embrace the Quack-tastic Charm!
 -------------------------------
 
 Unleash the charm of ducks into your application's experience with the Random Duck Picture route. Whether you're aiming to engage users through delightful visuals or infuse a sense of lightheartedness, this route is your companion to quack-tastic content.
-
-For more comprehensive insights into the capabilities of Mycelium-API and to explore additional routes, kindly refer to the `complete API documentation <https://docs.mycelium-ai.com>`_.
-
-Ready to immerse your app in the world of whimsical ducks? Begin your journey by visiting the `Mycelium-API page <https://api.mycelium-ai.com/>`_.
-
-.. note::
-
-   This documentation provides comprehensive insights into the Random Duck Picture route's capabilities, its potential usage, and integration benefits. For further exploration of Mycelium-API's offerings and other routes, we encourage you to dive into the `complete API documentation <https://docs.mycelium-ai.com>`_. Initiate your exploration of delightful duck pictures by visiting the `Mycelium-API page <https://api.mycelium-ai.com/>`_.
