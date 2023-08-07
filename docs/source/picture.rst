@@ -1,6 +1,3 @@
-Random Pictures
-=====
-
 .. _ducks:
 
 ------------
