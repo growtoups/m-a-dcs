@@ -43,7 +43,7 @@ The API will provide you with the URL of a delightful and random duck picture.
 .. code-block:: json
 
    {
-     "url": "https://example.com/random-duck-image.jpg"
+     "url": "https://cdn.mycelium-ai.com/random-duck-image.jpg"
    }
 
 Embrace the Quack-tastic Charm!
